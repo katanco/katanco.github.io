@@ -14,7 +14,7 @@ function App() {
         <h2>About Me</h2>
         <h3>I'm allowed to roam 🌳</h3>
         <p>
-          My parents let me go in and out as I choose so long as I have collar
+          My parents let me go in and out as I please, as long as I have collar
           charged and on. Please do not be worried if you see me out and about.
         </p>
         <h3>I love to cuddle 😻</h3>
@@ -33,7 +33,7 @@ function App() {
         </p>
         <h3>I love to adventure ⛰️</h3>
         <p>
-          The only thing I love more than yelling and cuddlig is splorin'. I
+          The only thing I love more than yelling and cuddling is splorin'. I
           love the great outdoors, even in intense weather conditions I might
           choose to go out. If you're worried or see me in danger please contact
           my parents at the number on my tag.
@@ -47,15 +47,15 @@ function App() {
         </p>
         <h3>I'm kind of a stinker 😼</h3>
         <p>
-          Despite all of my adorable qualities, I'm kindof a stinker! I have
+          Despite all of my adorable qualities, I'm kind of a stinker! I have
           been known to be loud, bother people until they let me into their
           homes, not return to my home when I'm supposed to, jump on things,
-          claw things, and generally be a butt. Please text my parents at the
+          scratch things, and generally be a butt. Please text my parents at the
           number listed on my tag if I've caused you any trouble.
         </p>
         <h3>Identifying me 🕵️</h3>
         <p>
-          I am a medium hair black cat, with a tuft of white fur on my chest,
+          I am a medium-hair black cat, with a tuft of white fur on my chest,
           and a small vertical scar on my nose. I'm 5 years old and roughly 18
           lbs.
         </p>
